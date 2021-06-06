@@ -11,8 +11,4 @@ public class TdcConference {
 		return "PCD - Pessoa com Determinacao - The Developer's Conference !";
 
 	}
-	
-
-	
-
 }
